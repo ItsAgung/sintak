@@ -1,0 +1,15 @@
+.wadah {
+  display: flex;
+  justify-content: center;
+}
+
+.nama {
+  font-family: "Times New Roman", Times, serif;
+  background-color: green;
+  padding: 20px;
+}
+
+.test {
+  font-family: "Times New Roman", Times, serif;
+  background-color: red;
+}
